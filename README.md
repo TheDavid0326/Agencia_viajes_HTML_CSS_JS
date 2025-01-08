@@ -32,5 +32,5 @@ Este proyecto es una sencilla aplicación web que permite al usuario explorar in
 * **Módulos ES6:** Importación y exportación de datos entre archivos JavaScript.
 * **Manejo de objetos:** Creación y uso de objetos para almacenar y acceder a la información de las ciudades.
 
-* **Demostración:**
+**Demostración:**
 https://agencia-viajes-html-css-js.netlify.app/
